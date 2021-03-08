@@ -4,7 +4,6 @@ import Header from '../../Header'
 import Cusionfilter from '../Filters/Cusionfilter'
 import Costfilter from '../Filters/Costfilter'
 import Sortfilter from '../Filters/sortfilter'
-// import {Link}  from 'react-router-dom'
 const url = "https://resst-app.herokuapp.com/rest?mealtype="
 
 class Listingapi extends React.Component {
